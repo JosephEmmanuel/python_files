@@ -1,0 +1,3 @@
+Blacktip,1.5,123,
+Silvertip,2.25,162,
+Whitetip,1.8,18,
