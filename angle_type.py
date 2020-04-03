@@ -24,11 +24,8 @@ def ang_type(angle):
 		return( " Striaght angle " )
 	elif angle ==90:
 		return( " Right angle " )
-	elif angle <0 or angle >360:
-		return( " Error! " )
-
 	else :
-		return( " Reflex angle " )
+		return( " ERROR!" )
 #end of function
 	
 

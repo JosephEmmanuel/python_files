@@ -4,7 +4,7 @@
 # Date :  May 2019
 
 
-for i in range(10):
+for i in range(100):
     #print("\n",i, ":", end="")
     print("\n", end="")
 
